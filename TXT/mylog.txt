@@ -1,0 +1,10 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+ZCZC W00 
+
+L00 Joined meeting
+L01 Starting off with W00 assignments
+L02 GitHub related
+L03 Filled google form in SCELE
+L04 GitHub related
