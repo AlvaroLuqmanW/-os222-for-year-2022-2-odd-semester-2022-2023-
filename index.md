@@ -5,12 +5,12 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[LOG](https://github.com/AlvaroLuqmanW/os222/blob/main/TXT/mylog.txt) ---
+[TARBALL](https://os.vlsm.org/Log/AlvaroLuqmanW.tar.bz2.txt) ---
+[GITHUB](https://github.com/AlvaroLuqmanW)
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+This is [os222](https://alvaroluqmanw.github.io/os222/) and I am [Alvaro Luqman Widyadharma](https://github.com/AlvaroLuqmanW).
 <br><br>
 This is the way!
 <br>
