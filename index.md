@@ -1,6 +1,6 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}[Alvaro Luqman Widyadharma](https://github.com/AlvaroLuqmanW)</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
