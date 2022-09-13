@@ -1,6 +1,16 @@
 ---
 permalink: LINKS/
 ---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}[Alvaro Luqman Widyadharma](https://github.com/AlvaroLuqmanW)</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[LOG](https://alvaroluqmanw.github.io/os222/TXT/mylog.txt) ---
+[TARBALL](SandBox/cbkadal.tar.xz) ---
+[GITHUB](https://github.com/AlvaroLuqmanW/os222/)
+<br>
+<hr>
 
 # LINKS
 ---
