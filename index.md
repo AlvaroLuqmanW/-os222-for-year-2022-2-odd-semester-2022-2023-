@@ -15,6 +15,6 @@ This is [os222](https://alvaroluqmanw.github.io/os222) and I am [Alvaro Luqman W
 This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; 2022 --- Alvaro Luqman Widyadharma --- Version: 0027--13-Sep-2022.
 <hr>
 <br>
