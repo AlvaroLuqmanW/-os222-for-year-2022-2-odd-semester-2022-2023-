@@ -5,7 +5,7 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG](https://github.com/AlvaroLuqmanW/os222/blob/main/TXT/mylog.txt) ---
+[LOG](https://alvaroluqmanw.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](https://os.vlsm.org/Log/AlvaroLuqmanW.tar.bz2.txt) ---
 [GITHUB](https://github.com/AlvaroLuqmanW)
 <br>
