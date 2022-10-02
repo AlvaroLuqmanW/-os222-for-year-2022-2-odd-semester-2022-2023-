@@ -24,4 +24,13 @@ ZCZC W03 100 L00 Assignments related and reading
 ZCZC W03 30 L01 GitHub related
 ZCZC W03 110 L02 Offline Class
 ZCZC W03 100 L03 Reading and reviewing Assignments
+ZCZC W04 100 L00 Zoom related
+ZCZC W04 70 L01 Assignments related, reading
+ZCZC W04 60 L02 Assignments related, completing tasks
+ZCZC W04 5 L03 SCELE Related, 5 minute quiz
+ZCZC W04 10 L04 SCELE Related, 10 minute quiz
+ZCZC W04 30 L05 SCELE Related, Pop quiz
+ZCZC W04 60 L06 Assignments related, fixing Connection timeout issues
+ZCZC W04 20 L07 Assignments related, checking tasks completion
+
 

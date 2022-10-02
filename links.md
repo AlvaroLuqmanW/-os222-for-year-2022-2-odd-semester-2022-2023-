@@ -39,5 +39,10 @@ permalink: LINKS/
 [C Programming Language](https://www.programiz.com/c-programming)
 > It is known that one of the most basic foundations of knowledge for Linux programming is experience with the C programming language. C is the basis of the Linux Kernel, so an exceptional understanding and ability to use C in practical applications is critical. Thus, this website provides step by step knowledge and small courses to help us understand the C programming language itself.
 
+## WEEK 04
+[Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)
+> The video goes over the basic concepts of virtual memory implementation. The video itself was made by MIT so it's worth checking it out
 
+[C Memory Addressing](https://www.w3schools.com/c/c_memory_address.php)
+> This website goes over the basics of memory addressing in C. When a variable is created in C, a memory address is assigned to the variable.The memory address is the location of where the variable is stored on the computer.
 
