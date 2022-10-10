@@ -32,5 +32,11 @@ ZCZC W04 10 L04 SCELE Related, 10 minute quiz
 ZCZC W04 30 L05 SCELE Related, Pop quiz
 ZCZC W04 60 L06 Assignments related, fixing Connection timeout issues
 ZCZC W04 20 L07 Assignments related, checking tasks completion
+ZCZC W05 80 L00 Zoom Related
+ZCZC W05 90 L01 Assignments related, reading
+ZCZC W05 60 L02 Assignments related, doing task
+ZCZC W05 90 L03 Offline class
+ZCZC W05 10 L04 SCELE related, quizes
+ZCZC W05 15 L05 SCELE related, pop quiz
 
 

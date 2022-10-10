@@ -46,3 +46,9 @@ permalink: LINKS/
 [C Memory Addressing](https://www.w3schools.com/c/c_memory_address.php)
 > This website goes over the basics of memory addressing in C. When a variable is created in C, a memory address is assigned to the variable.The memory address is the location of where the variable is stored on the computer.
 
+## WEEK 05
+[C Data Structures](https://www.mygreatlearning.com/blog/data-structures-using-c/)
+> The website takes you to an article that discusses about all the data structures that are usually used in C programming. Getting to know about data structures could be very useful, as it makes our programming more efficient.
+
+[C Programming Basic Algorithm](https://www.w3resource.com/c-programming-exercises/basic-algo/index.php)
+> Aside from data structures, basic understanding of programming algorithms is a key component to efficient programs. This website provides a mini quiz that would test the capability and understanding of such algorithms.
