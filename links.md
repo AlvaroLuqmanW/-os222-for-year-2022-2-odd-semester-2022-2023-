@@ -52,3 +52,10 @@ permalink: LINKS/
 
 [C Programming Basic Algorithm](https://www.w3resource.com/c-programming-exercises/basic-algo/index.php)
 > Aside from data structures, basic understanding of programming algorithms is a key component to efficient programs. This website provides a mini quiz that would test the capability and understanding of such algorithms.
+
+## WEEK 05
+[Cyber Security](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj1jc28lpz7AhVFaGwGHaSqBHAQFnoECBEQAw&url=https%3A%2F%2Fgeekflare.com%2Funderstanding-cybersecurity%2F%23%3A~%3Atext%3DCyber%2520Security%2520is%2520the%2520process%2Csystems%2520and%2520data%2520stored%2520within&usg=AOvVaw2OFsKin_nCUdLOZvKEa_1V)
+> Understanding the basics of cyber security is crucial for those who wishes to counter malicious attack through computers and devices that we use everyday.
+
+[C++](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiw8r3llpz7AhUjSWwGHcjkB0cQFnoECEcQAw&url=https%3A%2F%2Fwww.simplilearn.com%2Ftutorials%2Fcpp-tutorial%2Ftop-uses-of-c-plus-plus-programming&usg=AOvVaw2nWRbQ-o2IOYPWEn2VV1Od)
+> C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.
