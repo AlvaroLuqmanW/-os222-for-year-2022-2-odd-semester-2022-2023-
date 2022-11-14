@@ -59,3 +59,10 @@ permalink: LINKS/
 
 [C++](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiw8r3llpz7AhUjSWwGHcjkB0cQFnoECEcQAw&url=https%3A%2F%2Fwww.simplilearn.com%2Ftutorials%2Fcpp-tutorial%2Ftop-uses-of-c-plus-plus-programming&usg=AOvVaw2nWRbQ-o2IOYPWEn2VV1Od)
 > C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.
+
+## WEEK 07
+[Linux Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)
+> Discusses about Linux's Mass-Storge Structure starting from Magnetic Disk, Solid-State disk, magnetic tapes, disk structure, disk attachment, and many more.
+
+[Memory Managment of Linux](https://docs.kernel.org/admin-guide/mm/index.html)
+> Linux memory management subsystem is responsible, as the name implies, for managing the memory in the system. This includes implementation of virtual memory and demand paging, memory allocation both for kernel internal structures and user space programs, mapping of files into processes address space and many other cool things.

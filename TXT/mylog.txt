@@ -43,4 +43,8 @@ ZCZC W06 100 L01 Assignment related, doing assignment
 ZCZC W06 120 L02 Offline Class
 ZCZC W06 5 L03 SCELE related, quizes
 ZCZC W06 45 L04 SCELE related, pop quiz
-
+ZCZC W07 120 L00 ZOOM related, online class
+ZCZC W07 100 L01 Assignment related, reading
+ZCZC W07 110 L02 Assignment related, doing assignments
+ZCZC W07 10 L03 SCELE related, pop quiz
+ZCZC W07 5 L04 SCELE related, quiz
