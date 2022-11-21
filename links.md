@@ -66,3 +66,10 @@ permalink: LINKS/
 
 [Memory Managment of Linux](https://docs.kernel.org/admin-guide/mm/index.html)
 > Linux memory management subsystem is responsible, as the name implies, for managing the memory in the system. This includes implementation of virtual memory and demand paging, memory allocation both for kernel internal structures and user space programs, mapping of files into processes address space and many other cool things.
+
+## WEEK 08
+[Beyond Linux From Scratch](https://www.linuxfromscratch.org/blfs/)
+> Beyond Linux From Scratch (BLFS) is a project that continues where the LFS book finishes. It assists users in developing their systems according to their needs by providing a broad range of instructions for installing and configuring various packages on top of a base LFS system.
+
+[Automated Linux From Scratch](https://www.linuxfromscratch.org/alfs/)
+> Automated Linux From Scratch (ALFS) is a project that allows building the LFS system automatically. It also allows building packages from the BLFS book, but that needs some manual intervention.
