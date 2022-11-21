@@ -48,3 +48,7 @@ ZCZC W07 100 L01 Assignment related, reading
 ZCZC W07 110 L02 Assignment related, doing assignments
 ZCZC W07 10 L03 SCELE related, pop quiz
 ZCZC W07 5 L04 SCELE related, quiz
+ZCZC W08 300 L00 Assignments related, creating LFS
+ZCZC W08 5 L01 SCELE Related, quiz
+ZCZC W08 10 L02 SCELE Related, pop quiz
+ZCZC W08 110 L03 Assignments related, reading and watching LFS related
