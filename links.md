@@ -73,3 +73,10 @@ permalink: LINKS/
 
 [Automated Linux From Scratch](https://www.linuxfromscratch.org/alfs/)
 > Automated Linux From Scratch (ALFS) is a project that allows building the LFS system automatically. It also allows building packages from the BLFS book, but that needs some manual intervention.
+
+## WEEK 09
+[Linux From Scratch, Indonesia Tutorial](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjA3uWEiNH7AhVY93MBHcnHDyEQwqsBegQIRxAF&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5m3jE0RUbUk&usg=AOvVaw1m3l4K6_IEeWkprzZKNXfZ)
+> Starting off LFS can be very tough and complicated, even for some of us who are still relatively new to this. With that being said, having a tutor who delivers such materials regarding LFS in our own mother language could be quite a help for us to further understand the process of creating LFS.
+
+[Linux Partition Scheme](https://www.howtogeek.com/howto/35676/how-to-choose-a-partition-scheme-for-your-linux-pc/)
+> Partitions are divisions in the formatting of the hard disk.  It’s a logical — as opposed to a physical — division, so you can edit and manipulate them for various purposes.  Think breaking a disk into two configuration parts.  Partitions are really handy because they act as a sandbox. 
