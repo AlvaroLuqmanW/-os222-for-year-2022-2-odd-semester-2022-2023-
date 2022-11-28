@@ -52,3 +52,7 @@ ZCZC W08 300 L00 Assignments related, creating LFS
 ZCZC W08 5 L01 SCELE Related, quiz
 ZCZC W08 10 L02 SCELE Related, pop quiz
 ZCZC W08 110 L03 Assignments related, reading and watching LFS related
+ZCZC W09 120 L00 ZOOM related, zoom class
+ZCZC W09 100 L01 Assignment related, reading
+ZCZC W09 20 L02 SCELE related, quiz and some other stuff
+ZCZC W09 60 Assigment related, doing assignments
