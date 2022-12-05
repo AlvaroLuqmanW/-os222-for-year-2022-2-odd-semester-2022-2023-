@@ -55,4 +55,6 @@ ZCZC W08 110 L03 Assignments related, reading and watching LFS related
 ZCZC W09 120 L00 ZOOM related, zoom class
 ZCZC W09 100 L01 Assignment related, reading
 ZCZC W09 20 L02 SCELE related, quiz and some other stuff
-ZCZC W09 60 Assigment related, doing assignments
+ZCZC W09 60 L03 Assigment related, doing assignments
+ZCZC W10 60 L00 Assignments related, doing assignments
+ZCZC W10 10 L10 SCELE related, quiz
