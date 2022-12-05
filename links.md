@@ -80,3 +80,8 @@ permalink: LINKS/
 
 [Linux Partition Scheme](https://www.howtogeek.com/howto/35676/how-to-choose-a-partition-scheme-for-your-linux-pc/)
 > Partitions are divisions in the formatting of the hard disk.  It’s a logical — as opposed to a physical — division, so you can edit and manipulate them for various purposes.  Think breaking a disk into two configuration parts.  Partitions are really handy because they act as a sandbox. 
+
+## WEEK 10
+[Linux Host Configuration](https://linuxize.com/post/how-to-edit-your-hosts-file/)
+> The hosts file is used to map domain names (hostnames) to IP addresses. It is a plain-text file used by all operating systems including, Linux, Windows, and macOS.
+The hosts file has priority over DNS. When you type in the domain name of a web site you want to visit, the domain name must be translated into its corresponding IP Address. The operating system first checks its hosts file for the corresponding domain, and if there is no entry for the domain, it will query the configured DNS servers to resolve the specified domain name. This affects only the computer on which the change is made, rather than how the domain is resolved worldwide.
